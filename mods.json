@@ -1,0 +1,31 @@
+{
+  "version": "1.0.0",
+  "updatedAt": "2026-01-01T00:00:00.000Z",
+  "mods": [],
+  "categories": {
+    "prop": {
+      "name": "物体类",
+      "icon": "fa-box"
+    },
+    "creature": {
+      "name": "生物类",
+      "icon": "fa-dragon"
+    },
+    "vehicle": {
+      "name": "车辆类",
+      "icon": "fa-car"
+    },
+    "weapon": {
+      "name": "武器类",
+      "icon": "fa-gun"
+    },
+    "test": {
+      "name": "测试类",
+      "icon": "fa-flask"
+    },
+    "other": {
+      "name": "特殊类",
+      "icon": "fa-music"
+    }
+  }
+}
