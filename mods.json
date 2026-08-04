@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-01-01T00:00:00.000Z",
-  "mods": [],
+  "updatedAt": "2026-08-04T14:48:36.934Z",
+  "mods": [
+    {
+      "id": "mod_1785854903390_jz6f",
+      "name": "彩虹猫枪",
+      "author": "78物业",
+      "category": "weapon",
+      "description": "很不错的模组，高仿GMOD里面的彩虹猫枪，主要就是没有音效，并且是从官方的创意工坊里面搬运的，如果官方在武器模板里面添加的音效系统的话，我会重置！",
+      "version": "1.0.0",
+      "fileSize": 205349,
+      "downloadCount": 0,
+      "uploadedAt": "2026-08-04T14:48:23.426Z",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/mods/mod_1785854903390_jz6f.zip",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/icons/mod_1785854903390_jz6f.png",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/previews/mod_1785854903390_jz6f.jpg"
+    }
+  ],
   "categories": {
     "prop": {
       "name": "物体类",
