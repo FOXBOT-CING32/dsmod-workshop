@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-08-05T00:27:29.048Z",
+  "updatedAt": "2026-08-05T00:29:52.564Z",
   "mods": [
     {
       "id": "mod_1785854903390_jz6f",
@@ -29,6 +29,20 @@
       "downloadUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/mods/mod_1785889643116_gplw.zip",
       "iconUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/icons/mod_1785889643116_gplw.png",
       "previewUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/previews/mod_1785889643116_gplw.jpg"
+    },
+    {
+      "id": "mod_1785889782033_4q9l",
+      "name": "激光冲锋枪（SMG）",
+      "author": "GSWING",
+      "category": "weapon",
+      "description": "一样是搬运，这个子弹全神就是使用系统自带的，但是射速快，伤害高，还是不错滴，后面我也会推出自己制作的武器，尽量会在一些网站上找到素材😪",
+      "version": "1.0.0",
+      "fileSize": 177119,
+      "downloadCount": 0,
+      "uploadedAt": "2026-08-05T00:29:42.057Z",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/mods/mod_1785889782033_4q9l.zip",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/icons/mod_1785889782033_4q9l.png",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/previews/mod_1785889782033_4q9l.jpg"
     }
   ],
   "categories": {
