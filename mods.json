@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-08-06T06:38:47.671Z",
+  "updatedAt": "2026-08-06T06:38:57.125Z",
   "mods": [
     {
       "id": "mod_1785854903390_jz6f",
@@ -77,11 +77,15 @@
       "description": "闲着无聊的时候乱做的模组，俺那个头像就是Webcat的那个图标，声音就是来源于某个网站上的声音素材！比较神秘😋",
       "version": "1.0.0",
       "fileSize": 19400,
-      "downloadCount": 0,
+      "downloadCount": 1,
       "uploadedAt": "2026-08-06T06:38:45.987Z",
       "downloadUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/mods/mod_1785998239744_5b2t.zip",
       "iconUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/icons/mod_1785998239744_5b2t.png",
-      "previewUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/previews/mod_1785998239744_5b2t.jpg"
+      "previewUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/previews/mod_1785998239744_5b2t.jpg",
+      "_fromAPI": true,
+      "_zipExists": true,
+      "_iconExists": true,
+      "_previewExists": true
     }
   ],
   "categories": {
