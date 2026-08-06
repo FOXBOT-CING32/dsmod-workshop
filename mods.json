@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-08-05T12:08:05.285Z",
+  "updatedAt": "2026-08-06T06:35:06.804Z",
   "mods": [
     {
       "id": "mod_1785854903390_jz6f",
@@ -52,6 +52,21 @@
       "downloadUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/mods/mod_1785889782033_4q9l.zip",
       "iconUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/icons/mod_1785889782033_4q9l.png",
       "previewUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/previews/mod_1785889782033_4q9l.jpg"
+    },
+    {
+      "id": "mod_1785998068561_jrh7",
+      "name": "NEXTBOT整合包",
+      "author": "TE-CLINGSER",
+      "authorEmail": "aaa7834081@qq.com",
+      "category": "creature",
+      "description": "这个我是在创意工坊上找的，也就是GMOD的创意工坊上找的，所有的素材都来源于那里，禁止搬运我的模组！😪",
+      "version": "1.0.0",
+      "fileSize": 7345025,
+      "downloadCount": 0,
+      "uploadedAt": "2026-08-06T06:34:28.606Z",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/mods/mod_1785998068561_jrh7.zip",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/icons/mod_1785998068561_jrh7.png",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/previews/mod_1785998068561_jrh7.jpg"
     }
   ],
   "categories": {
