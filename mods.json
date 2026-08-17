@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-08-17T01:45:52.372Z",
+  "updatedAt": "2026-08-17T01:46:16.899Z",
   "mods": [
     {
       "id": "mod_1785854903390_jz6f",
@@ -96,11 +96,15 @@
       "description": "随便制作的模组，NPC外形是Emoji，做的可能并不好！",
       "version": "1.0.0",
       "fileSize": 1083,
-      "downloadCount": 0,
+      "downloadCount": 1,
       "uploadedAt": "2026-08-17T01:45:42.998Z",
       "downloadUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/mods/mod_1786931142998_h6wk.zip",
       "iconUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/icons/mod_1786931142998_h6wk.png",
-      "previewUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/previews/mod_1786931142998_h6wk.jpg"
+      "previewUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/previews/mod_1786931142998_h6wk.jpg",
+      "_fromAPI": true,
+      "_zipExists": true,
+      "_iconExists": true,
+      "_previewExists": true
     }
   ],
   "categories": {
