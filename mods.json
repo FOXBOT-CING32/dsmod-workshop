@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-08-06T06:38:57.125Z",
+  "updatedAt": "2026-08-17T01:45:52.372Z",
   "mods": [
     {
       "id": "mod_1785854903390_jz6f",
@@ -86,6 +86,21 @@
       "_zipExists": true,
       "_iconExists": true,
       "_previewExists": true
+    },
+    {
+      "id": "mod_1786931142998_h6wk",
+      "name": "EMOJI的NPCS整合包",
+      "author": "TE-CLINGSER",
+      "authorEmail": "aaa7834081@qq.com",
+      "category": "creature",
+      "description": "随便制作的模组，NPC外形是Emoji，做的可能并不好！",
+      "version": "1.0.0",
+      "fileSize": 1083,
+      "downloadCount": 0,
+      "uploadedAt": "2026-08-17T01:45:42.998Z",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/mods/mod_1786931142998_h6wk.zip",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/icons/mod_1786931142998_h6wk.png",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/previews/mod_1786931142998_h6wk.jpg"
     }
   ],
   "categories": {
