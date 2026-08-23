@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-08-21T08:38:14.917Z",
+  "updatedAt": "2026-08-23T01:49:36.003Z",
   "mods": [
     {
       "id": "mod_1787301485028_tfm7",
@@ -17,6 +17,22 @@
       "downloadUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/mods/mod_1787301485028_tfm7.zip",
       "iconUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/icons/mod_1787301485028_tfm7.png",
       "previewUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/previews/mod_1787301485028_tfm7.jpg"
+    },
+    {
+      "id": "mod_1787449765849_j55x",
+      "name": "EMOJI的NPCS整合包",
+      "author": "玩家",
+      "authorEmail": null,
+      "category": "creature",
+      "description": "请输入文本，抽象模组罢了😋",
+      "version": "1.0.0",
+      "fileSize": 1083,
+      "uploadType": "local",
+      "downloadCount": 0,
+      "uploadedAt": "2026-08-23T01:49:25.850Z",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/mods/mod_1787449765849_j55x.zip",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/icons/mod_1787449765849_j55x.png",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/previews/mod_1787449765849_j55x.jpg"
     }
   ],
   "categories": {
