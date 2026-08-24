@@ -1,23 +1,7 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-08-23T01:49:36.003Z",
+  "updatedAt": "2026-08-24T00:50:42.403Z",
   "mods": [
-    {
-      "id": "mod_1787301485028_tfm7",
-      "name": "EMOJI的NPCS整合包",
-      "author": "TE-CLINGSER",
-      "authorEmail": "aaa7834081@qq.com",
-      "category": "creature",
-      "description": "随便弄了一个整合包，闲的没事干，纯抽象整合包",
-      "version": "1.0.0",
-      "fileSize": 1083,
-      "uploadType": "local",
-      "downloadCount": 0,
-      "uploadedAt": "2026-08-21T08:38:05.028Z",
-      "downloadUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/mods/mod_1787301485028_tfm7.zip",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/icons/mod_1787301485028_tfm7.png",
-      "previewUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/previews/mod_1787301485028_tfm7.jpg"
-    },
     {
       "id": "mod_1787449765849_j55x",
       "name": "EMOJI的NPCS整合包",
