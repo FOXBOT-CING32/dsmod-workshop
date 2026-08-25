@@ -1,23 +1,7 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-08-25T00:02:51.226Z",
-  "mods": [
-    {
-      "id": "mod_1787616059993_3r6q",
-      "name": "emoji的抽象整合包",
-      "author": "TE-CLINGSER",
-      "authorEmail": "aaa7834081@qq.com",
-      "category": "creature",
-      "description": "随便制作的一个抽象整合包罢了，可能有点神圣😋",
-      "version": "1.0.0",
-      "fileSize": 1083,
-      "downloadCount": 0,
-      "uploadedAt": "2026-08-25T00:02:40.534Z",
-      "downloadUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/mods/mod_1787616059993_3r6q.zip",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/icons/mod_1787616059993_3r6q.png",
-      "previewUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/previews/mod_1787616059993_3r6q.jpg"
-    }
-  ],
+  "updatedAt": "2026-08-25T00:07:33.765Z",
+  "mods": [],
   "categories": {
     "prop": {
       "name": "物体类",
