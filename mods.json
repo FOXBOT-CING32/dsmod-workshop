@@ -1,23 +1,7 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-08-30T13:58:52.847Z",
-  "mods": [
-    {
-      "id": "mod_1787653849536_kpxb",
-      "name": "EMOJI的整合包",
-      "author": "TE-CLINGSER",
-      "authorEmail": "aaa7834081@qq.com",
-      "category": "creature",
-      "description": "一个比较抽象的生物模组整合包，不多说废话😋",
-      "version": "1.0.0",
-      "fileSize": 1083,
-      "downloadCount": 0,
-      "uploadedAt": "2026-08-30T13:58:45.731Z",
-      "downloadUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/mods/mod_1787653849536_kpxb.zip",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/icons/mod_1787653849536_kpxb.png",
-      "previewUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/previews/mod_1787653849536_kpxb.jpg"
-    }
-  ],
+  "updatedAt": "2026-08-30T14:00:58.684Z",
+  "mods": [],
   "categories": {
     "prop": {
       "name": "物体类",
