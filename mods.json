@@ -1,25 +1,7 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-09-02T10:53:21.762Z",
-  "mods": [
-    {
-      "id": "mod_1788346352475_xsov",
-      "name": "EMOJI的整合包",
-      "author": "TE-CLINGSER",
-      "authorEmail": "aaa7834081@qq.com",
-      "category": "creature",
-      "description": "最近做的一个抽象整合包，没啥好说的，忘记截图了，将就着看吧🤓",
-      "version": "1.0.0",
-      "fileSize": 1083,
-      "downloadCount": 0,
-      "uploadedAt": "2026-09-02T10:52:32.475Z",
-      "downloadUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/mods/mod_1788346352475_xsov.zip",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/icons/mod_1788346352475_xsov.png",
-      "previewUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/previews/mod_1788346352475_xsov.png",
-      "_iconFileName": "mod_1788346352475_xsov.png",
-      "_previewFileName": "mod_1788346352475_xsov.png"
-    }
-  ],
+  "updatedAt": "2026-09-02T10:54:19.568Z",
+  "mods": [],
   "categories": {
     "prop": {
       "name": "物体类",
