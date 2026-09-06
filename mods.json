@@ -1,7 +1,25 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-09-02T10:54:19.568Z",
-  "mods": [],
+  "updatedAt": "2026-09-06T06:47:30.336Z",
+  "mods": [
+    {
+      "id": "mod_1788677239173_irci",
+      "name": "彩虹猫枪",
+      "author": "TE-CLINGSER",
+      "authorEmail": "aaa7834081@qq.com",
+      "category": "weapon",
+      "description": "高仿gmod里面的NYAN GUN，一个半成品罢了，因为不支持音效.....如果DSMOD发了支持武器音效的版本，我可能会重置！",
+      "version": "1.0.0",
+      "fileSize": 205349,
+      "downloadCount": 0,
+      "uploadedAt": "2026-09-06T06:47:19.174Z",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/mods/mod_1788677239173_irci.zip",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/icons/mod_1788677239173_irci.png",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/previews/mod_1788677239173_irci.png",
+      "_iconFileName": "mod_1788677239173_irci.png",
+      "_previewFileName": "mod_1788677239173_irci.png"
+    }
+  ],
   "categories": {
     "prop": {
       "name": "物体类",
