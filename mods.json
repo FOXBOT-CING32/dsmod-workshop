@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-10-05T05:53:17.596Z",
+  "updatedAt": "2026-10-05T05:58:33.239Z",
   "mods": [
     {
       "id": "mod_1791179583805_oxiu",
@@ -16,6 +16,21 @@
       "downloadUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/mods/mod_1791179583805_oxiu.zip",
       "iconUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/icons/mod_1791179583805_oxiu.png",
       "previewUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/previews/mod_1791179583805_oxiu.jpg"
+    },
+    {
+      "id": "mod_1791179901164_kruk",
+      "name": "彩虹猫枪（Nyan Gun）",
+      "author": "aaa7834081",
+      "authorEmail": "aaa7834081@qq.com",
+      "category": "weapon",
+      "description": "这是一个高仿GMOD创意工坊中的Nyan Gun，只是一个测试版，以后我会上传更多模组",
+      "version": "1.0.0",
+      "fileSize": 205349,
+      "downloadCount": 0,
+      "uploadedAt": "2026-10-05T05:58:21.164Z",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/mods/mod_1791179901164_kruk.zip",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/icons/mod_1791179901164_kruk.png",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/previews/mod_1791179901164_kruk.jpg"
     }
   ],
   "categories": {
