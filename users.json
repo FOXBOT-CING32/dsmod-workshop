@@ -8,6 +8,15 @@
       "createdAt": "2026-10-05T05:48:53.419Z",
       "lastLogin": "2026-10-05T05:48:53.420Z",
       "loginCount": 1
+    },
+    "78450081@163.com": {
+      "email": "78450081@163.com",
+      "nickname": "78450081",
+      "password": "114514",
+      "avatarId": null,
+      "createdAt": "2026-10-05T22:16:02.176Z",
+      "lastLogin": "2026-10-05T22:16:02.181Z",
+      "loginCount": 1
     }
   }
 }
