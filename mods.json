@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-10-05T05:49:29.771Z",
-  "mods": [],
+  "updatedAt": "2026-10-05T05:53:17.596Z",
+  "mods": [
+    {
+      "id": "mod_1791179583805_oxiu",
+      "name": "NEXTBOT整合包1",
+      "author": "aaa7834081",
+      "authorEmail": "aaa7834081@qq.com",
+      "category": "creature",
+      "description": "这是仿GMOD的Nextbot整合包，还是不错的",
+      "version": "1.0.0",
+      "fileSize": 7345025,
+      "downloadCount": 0,
+      "uploadedAt": "2026-10-05T05:53:03.805Z",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/mods/mod_1791179583805_oxiu.zip",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/icons/mod_1791179583805_oxiu.png",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/previews/mod_1791179583805_oxiu.jpg"
+    }
+  ],
   "categories": {
     "prop": {
       "name": "物体类",
