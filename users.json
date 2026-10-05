@@ -1,0 +1,13 @@
+{
+  "users": {
+    "aaa7834081@qq.com": {
+      "email": "aaa7834081@qq.com",
+      "nickname": "aaa7834081",
+      "password": "33221178a",
+      "avatarId": null,
+      "createdAt": "2026-10-05T05:48:53.419Z",
+      "lastLogin": "2026-10-05T05:48:53.420Z",
+      "loginCount": 1
+    }
+  }
+}
