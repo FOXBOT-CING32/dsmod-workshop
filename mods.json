@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-10-06T01:54:05.621Z",
+  "updatedAt": "2026-10-06T01:55:23.464Z",
   "mods": [
     {
       "id": "mod_1791179583805_oxiu",
@@ -95,6 +95,21 @@
       "downloadUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/mods/mod_1791251636421_qn3b.zip",
       "iconUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/icons/mod_1791251636421_qn3b.png",
       "previewUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/previews/mod_1791251636421_qn3b.jpg"
+    },
+    {
+      "id": "mod_1791251712724_ai8w",
+      "name": "激光冲锋枪",
+      "author": "aaa7834081",
+      "authorEmail": "aaa7834081@qq.com",
+      "category": "weapon",
+      "description": "一把激光冲锋枪",
+      "version": "1.0.0",
+      "fileSize": 177119,
+      "downloadCount": 0,
+      "uploadedAt": "2026-10-06T01:55:12.725Z",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/mods/mod_1791251712724_ai8w.zip",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/icons/mod_1791251712724_ai8w.png",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/previews/mod_1791251712724_ai8w.jpg"
     }
   ],
   "categories": {
