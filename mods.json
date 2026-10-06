@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-10-06T01:52:22.332Z",
+  "updatedAt": "2026-10-06T01:54:05.621Z",
   "mods": [
     {
       "id": "mod_1791179583805_oxiu",
@@ -80,6 +80,21 @@
       "downloadUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/mods/mod_1791251530052_i4g7.zip",
       "iconUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/icons/mod_1791251530052_i4g7.png",
       "previewUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/previews/mod_1791251530052_i4g7.jpg"
+    },
+    {
+      "id": "mod_1791251636421_qn3b",
+      "name": "战术小刀",
+      "author": "aaa7834081",
+      "authorEmail": "aaa7834081@qq.com",
+      "category": "weapon",
+      "description": "一个近战武器，没啥好说的",
+      "version": "1.0.0",
+      "fileSize": 2266,
+      "downloadCount": 0,
+      "uploadedAt": "2026-10-06T01:53:56.421Z",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/mods/mod_1791251636421_qn3b.zip",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/icons/mod_1791251636421_qn3b.png",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/previews/mod_1791251636421_qn3b.jpg"
     }
   ],
   "categories": {
