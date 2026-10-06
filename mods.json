@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-10-06T01:50:49.284Z",
+  "updatedAt": "2026-10-06T01:52:22.332Z",
   "mods": [
     {
       "id": "mod_1791179583805_oxiu",
@@ -65,6 +65,21 @@
       "downloadUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/mods/mod_1791251396966_7a99.zip",
       "iconUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/icons/mod_1791251396966_7a99.png",
       "previewUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/previews/mod_1791251396966_7a99.jpg"
+    },
+    {
+      "id": "mod_1791251530052_i4g7",
+      "name": "宇将军",
+      "author": "aaa7834081",
+      "authorEmail": "aaa7834081@qq.com",
+      "category": "creature",
+      "description": "宇将军NEXTBOT",
+      "version": "1.0.0",
+      "fileSize": 378922,
+      "downloadCount": 0,
+      "uploadedAt": "2026-10-06T01:52:10.052Z",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/mods/mod_1791251530052_i4g7.zip",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/icons/mod_1791251530052_i4g7.png",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/dsmod-workshop/previews/mod_1791251530052_i4g7.jpg"
     }
   ],
   "categories": {
